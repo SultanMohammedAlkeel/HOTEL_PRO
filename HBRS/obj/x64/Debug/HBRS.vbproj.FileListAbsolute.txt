@@ -1,0 +1,54 @@
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.exe.config
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.exe
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.pdb
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckin.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckinList.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckinListMonitor.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckout.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckOutList.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmDiscount.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmGuest.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmLogin.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmMain.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmReserve.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmReserveListMonitor.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmRoom.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmRoomListMonitor.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmSelectGuest.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmSelectRoom.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.Resources.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.vbproj.GenerateResource.Cache
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.exe
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.pdb
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmUsers.resources
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.vbprojFakesResolveAssemblyReference.cache
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\bin\x64\Debug\database.accdb
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\database.accdb
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.exe.config
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.exe
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\HBRS.pdb
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.vbprojFakesResolveAssemblyReference.cache
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckin.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckinList.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckinListMonitor.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckout.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmCheckOutList.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmDiscount.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmGuest.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmLogin.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmMain.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmReserve.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmReserveListMonitor.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmRoom.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmRoomListMonitor.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmSelectGuest.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmSelectRoom.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.frmUsers.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.Resources.resources
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.vbproj.GenerateResource.Cache
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.exe
+E:\job\مشروع نظام الحجوزات\العملي للتطوير\hotel_mgmt_sys\HBRS\obj\x64\Debug\HBRS.pdb

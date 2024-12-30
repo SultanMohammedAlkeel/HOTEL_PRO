@@ -1,0 +1,10 @@
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.Fakes.xml
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.Fakes.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.Fakes.pdb
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Accessibility.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\b\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\o\f.csprojResolveAssemblyReference.cache
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.Fakes.dll
+E:\job\Hotel-Management-System-Visual-Basic--main\hotel_mgmt_sys\HBRS\obj\x86\Debug\Fakes\mvbppv\o\Microsoft.VisualBasic.PowerPacks.Vs.Fakes.pdb
